@@ -16,7 +16,7 @@ class BitCoinTrackerApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: AppTheme.lightTheme,
-      home: PriceScreen(),
+      home: const PriceScreen(),
     );
   }
 }
